@@ -1,0 +1,4 @@
+logging:
+  level:
+    org.glassfish: DEBUG
+    com.fasterxml.jackson: DEBUG
